@@ -1,5 +1,7 @@
 # Attention OCR
 
+SOURCE: https://github.com/alleveenstra/attentionocr
+
 A clear and maintainable implementation of Attention OCR in Tensorflow 2.0.
 
 This sequence to sequence OCR model aims to provide a clear and maintainable implementation of attention based OCR.
